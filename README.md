@@ -3,7 +3,7 @@
 ## Calculadora:https://davibarroscosta.github.io/Calculadora-Simples/
 ## Calculadora
 
-<img align="center" src="https://user-images.githubusercontent.com/102886070/162595512-30391916-f469-4708-b71a-8925245cf0bb.gif" width="900" height="500"/>
+<img align="center" src="https://user-images.githubusercontent.com/102886070/162595512-30391916-f469-4708-b71a-8925245cf0bb.gif" width="1000" height="500"/>
 
 
 ## Tecnologias
